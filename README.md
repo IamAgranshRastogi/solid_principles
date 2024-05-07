@@ -1,20 +1,20 @@
 # ******** SOLID PRINCIPLES In JAVA ********
 ## SOLID Acronym
 ### 1. [S] Single Responsibility Principle (SRP) :
-" A class should have only one reason to change. "
+"*A class should have only one reason to change.*"
 
 ### 2. [O] Open closed Principle (OSP) :
 "  Software Entities (classes, modules, functions, etc.) should be *open for extension, but closed for Modification*. "
 
 ### 3. [L] Liskov substitution Principle (LSP) : 
-" Derived or child classes must be substitutable for their base or parent classes.
-Objects of a superclass should be replaceable with objects of its subclasses without breaking the system. "
+" *Derived or child classes must be substitutable for their base or parent classes.
+Objects of a superclass should be replaceable with objects of its subclasses without breaking the system.*"
 
 ### 4. [I] Interface Segregation Principle (ISP) :
-" Do not force any client to implement an interface which is irrelevant to them / methods that it does not use."
+"*Do not force any client to implement an interface which is irrelevant to them / methods that it does not use.*"
 
 ### 5. [D] Dependency Inversion Principle (DIP) :
-" High-level modules should not depend on the low-level module but both should depend on the abstraction. "
+"*High-level modules should not depend on the low-level module but both should depend on the abstraction.*"
 
 
 These 5 principles have changed the world of object-oriented programming, and also changed the way of writing software. 
@@ -30,4 +30,4 @@ The principle can be well understood with an example. Imagine there is a class c
 5. Send OTP
 
 
-Reference Article: "https://medium.com/@javatechie/solid-design-principle-java-ae96a48db97" 
+Reference Article: "*https://medium.com/@javatechie/solid-design-principle-java-ae96a48db97*" 
